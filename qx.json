@@ -1,6 +1,6 @@
 {
     "name": "Faker脚本集合",
-    "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
+    "description": "京东推荐0301脚本，请善用搜索功能",
     "task": [   
                "0,2 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_sqdyj.js, tag=京东柠檬省钱大赢家, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",
 	       "0 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_yqyl.js, tag=京东柠檬邀请有礼, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",
