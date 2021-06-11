@@ -3,6 +3,7 @@
     "name": "Faker脚本集合",
     "description": "6/10更新 已传某大佬备份,TG群jdscrip.",
     "task": [   
+			"0 5 * * * http://nm66.top/jd_kanjia2.js, tag=柠檬是兄弟就砍我2, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
 			"15 0,6,13,19,21 * * * https://raw.githubusercontent.com/shufflewzc/hyzaw/main/ddo_pk.js, tag=京享值PK, enabled=true",
 			"0 0 * * * http://nm66.top/jd_xsmh.js, tag=柠檬618限时盲盒, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
 	       "0 0 * * * http://nm66.top/jd_qqtmy.js, tag=柠檬618惊奇探秘夜, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
