@@ -1,8 +1,11 @@
 {
 	
     "name": "Faker脚本集合",
-    "description": "6/12更新 已传某大佬备份,TG群jdscrip.",
+    "description": "6/14更新 已传某大佬备份,TG群jdscrip.",
     "task": [   
+	"0-59/30 * * * * https://ghproxy.com/https://raw.githubusercontent.com/star261/jd/main/scripts/jd_zooCollect.js, tag=京东动物联萌收集金币star版, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
+	       "10 10 * * * https://ghproxy.com/https://raw.githubusercontent.com/star261/jd/main/scripts/jd_zooMap.js, tag=京东动物联萌只做店铺任务star版, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
+	       "36 0,6-23/2 * * * https://ghproxy.com/https://raw.githubusercontent.com/star261/jd/main/scripts/jd_zoo.js, tag=京东动物联萌star版, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
 	        "15 0,6,13,19,21 * * * https://raw.githubusercontent.com/hyzaw/scripts/main/ddo_pk.js, tag=京享值PK",
 			"0 5 * * * http://nm66.top/jd_kanjia2.js, tag=柠檬是兄弟就砍我2, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
 			"15 0,6,13,19,21 * * * https://raw.githubusercontent.com/shufflewzc/hyzaw/main/ddo_pk.js, tag=京享值PK, enabled=true",
