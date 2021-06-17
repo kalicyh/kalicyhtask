@@ -3,7 +3,6 @@
     "name": "Faker脚本集合",
     "description": "6/17更新 已传某大佬备份,TG群jdscrip.",
     "task": [  
-			  "0 8-14/1 * * * https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/wen/other/jrkuaixun.js, tag=10s阅读, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/wen.png, enabled=true",
 	       "*/12 * * * * https://ghproxy.com/https://raw.githubusercontent.com/CenBoMin/GithubSync/main/DKDVIDEO/dkdvideo.js, tag=多看点姐姐修复版, img-url=https://cdn.jsdelivr.net/gh/sngxpro/QuanX@master/pic/jiejie.png, enabled=true",
 	       "5 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/hzh/hzh.js, tag=华住会签到, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/hzh.png, enabled=true",
 	       "0 23 * * * https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/ppz.js, tag=拼拼猪, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/tom.png, enabled=true",
