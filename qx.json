@@ -1,8 +1,9 @@
 {
 	
     "name": "Faker脚本集合",
-    "description": "6/16更新 已传某大佬备份,TG群jdscrip.",
+    "description": "6/20更新 已传某大佬备份,TG群jdscrip.",
     "task": [  
+	   "30 7 * * * https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/wen/jd/jd_qqxing.js, tag=京东星系牧场, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/wen.png, enabled=true",
 			"30 7 * * * https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/wen/jd/jd_ddnc_farmpark.js, tag=京东东东乐园, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/wen.png, enabled=true",
 	       "0 9 * * * https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooLongzhou.js, tag=京东浓情618与粽不同, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/zoo.png, enabled=true",
 	       "0 23 * * * https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/myxp.js, tag=美音星品, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/tom.png, enabled=true",
