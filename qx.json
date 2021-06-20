@@ -3,6 +3,7 @@
     "name": "Faker脚本集合",
     "description": "6/20更新 已传某大佬备份,TG群jdscrip.",
     "task": [  
+			 "15 13 6-18 6 * https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooLongzhou02.js, tag=京东粽享优惠, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/zoo.png, enabled=true",
 			"30 7 * * * https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/wen/jd/jd_qqxing.js, tag=京东星系牧场, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/wen.png, enabled=true",
 	       "*/12 * * * * https://ghproxy.com/https://raw.githubusercontent.com/CenBoMin/GithubSync/main/DKDVIDEO/dkdvideo.js, tag=多看点姐姐修复版, img-url=https://cdn.jsdelivr.net/gh/sngxpro/QuanX@master/pic/jiejie.png, enabled=true",
 	       "5 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/hzh/hzh.js, tag=华住会签到, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/hzh.png, enabled=true",
