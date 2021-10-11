@@ -1,6 +1,6 @@
 {
     "name": "Faker仓库QX版本",
-    "description": "9月27日更新,更新失败请挂VPN.TG群jdscrip.",
+    "description": "10月11日更新,更新失败请挂VPN.TG群jdscrip.",
     "task": [  
     	"2 9 * * * https://raw.githubusercontent.com/shufflewzc/faker2/main/jd_bean_change_new.js, tag=京豆新版变动通知, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/lxk0301.png, enabled=true",
     	"18 0-23/2 * * * https://ghproxy.com/https://raw.githubusercontent.com/shufflewzc/faker2/main/jd_wealth_island.js, tag=财富大陆, enabled=true",
