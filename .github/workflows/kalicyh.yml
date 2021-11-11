@@ -25,7 +25,7 @@ on:
   watch:
     types: started
   repository_dispatch:
-    types: sync-6Svip120apk69-gitee_q8qsTAUA_cThxc1RBVUE
+    types: sync-sync-faker2-GithubSync  #sync-作者名-作者库名
 jobs:
   repo-sync:
     env:
@@ -37,11 +37,11 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: sync 6Svip120apk69-gitee_q8qsTAUA_cThxc1RBVUE
+      - name: sync faker2-GithubSync  #sync 作者名-作者库名
         uses: repo-sync/github-sync@v2
         if: env.PAT
         with:
-          source_repo: "https://github.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE.git"
+          source_repo: "https://github.com/shufflewzc/faker2.git"
           source_branch: "main"
-          destination_branch: "ZIYE"
+          destination_branch: "faker2"
           github_token: ${{ secrets.PAT }}
