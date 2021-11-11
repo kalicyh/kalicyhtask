@@ -17,7 +17,7 @@
 
 
 
-name: ziye-sync
+name: kalicyh-task
 on:
   schedule:
     - cron: '1 */3 * * *'
