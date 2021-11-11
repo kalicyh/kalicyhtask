@@ -1,0 +1,34 @@
+## 作者名         6Svip120apk69  
+2
+## 作者库名       gitee_q8qsTAUA_cThxc1RBVUE     
+3
+## 作者分支名     main     
+4
+## 同步分支名     ZIYE   （可自定义 ）
+name: kalicyh-task
+on:
+  schedule:
+    - cron: '1 */3 * * *'
+  workflow_dispatch:
+  watch:
+    types: started
+  repository_dispatch:
+    types: sync-faker3-GithubSync  #sync-作者名-作者库名
+jobs:
+  repo-sync:
+    env:
+      PAT: ${{ secrets.PAT }} 
+    runs-on: ubuntu-latest
+    if: github.event.repository.owner.id == github.event.sender.id
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+      - name: sync faker2-GithubSync  #sync 作者名-作者库名
+        uses: repo-sync/github-sync@v2
+        if: env.PAT
+        with:
+          source_repo: "https://github.com/shufflewzc/faker.git"
+          source_branch: "main"
+          destination_branch: "faker"
+          github_token: ${{ secrets.PAT }}
