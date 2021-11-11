@@ -25,7 +25,7 @@ on:
   watch:
     types: started
   repository_dispatch:
-    types: sync-sync-faker2-GithubSync  #sync-作者名-作者库名
+    types: sync-faker3-GithubSync  #sync-作者名-作者库名
 jobs:
   repo-sync:
     env:
@@ -41,7 +41,7 @@ jobs:
         uses: repo-sync/github-sync@v2
         if: env.PAT
         with:
-          source_repo: "https://github.com/shufflewzc/faker2.git"
+          source_repo: "https://github.com/shufflewzc/faker3.git"
           source_branch: "main"
-          destination_branch: "faker2"
+          destination_branch: "faker"
           github_token: ${{ secrets.PAT }}
