@@ -29,7 +29,7 @@
         "4 10 * * * https://raw.githubusercontent.com/kaliCYH/kalicyhtask/faker2/jd_market_lottery.js, tag=京东幸运大转盘0301版, img-url=https://raw.githubusercontent.com/kaliCYH/kalicyhtask/main/icon/jd.png",
         "10 0-23/4 * * * https://raw.githubusercontent.com/kaliCYH/kalicyhtask/faker2/jd_health.js, tag=京东健康社区0301版, img-url=https://raw.githubusercontent.com/kaliCYH/kalicyhtask/main/icon/jd.png",
         "*/30 * * * * https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/iboxpay.js, tag=笑谱ziye版, img-url=https://raw.githubusercontent.com/kaliCYH/kalicyhtask/main/icon/jd.png, enabled=true",
-        "*/30 * * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/jxcollect.js, tag=京东京喜工厂收电力（需单抓ck）, img-url=https://raw.githubusercontent.com/i-chenzhe/qx/master/img/icon.png, enabled=true",
+        "*/30 * * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/jxcollect.js, tag=京东京喜工厂收电力（需单抓ck）, img-url=https://raw.githubusercontent.com/kaliCYH/kalicyhtask/main/icon/jd.png, enabled=true",
         "10 */1 * * * https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/youth.js, tag=sunert中青签到&转盘宝箱&时长, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Youth.png, enabled=true",
         "10 */2 * * * https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/Youth_Read.js, tag=sunert中青自动阅读, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Youth.png, enabled=true",
         "30 6 * * * https://raw.githubusercontent.com/ztxtop/x/main/youth_banner.js, tag=ztxtop中青看看赚&浏览赚, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Youth.png, enabled=true",
