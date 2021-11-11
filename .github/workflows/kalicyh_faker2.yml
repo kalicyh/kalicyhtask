@@ -1,12 +1,4 @@
-## 作者名         6Svip120apk69  
-## 作者库名       gitee_q8qsTAUA_cThxc1RBVUE     
-## 作者分支名     main     
-## 同步分支名     ZIYE   （可自定义 ）
-
-
-
-
-name: kalicyh-task
+name: faker2
 on:
   schedule:
     - cron: '1 */3 * * *'
